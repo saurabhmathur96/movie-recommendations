@@ -1,0 +1,9 @@
+data/raw/ml-1m
+data/raw/ml-1m.zip
+models/*.npy
+notebooks/.ipynb_checkpoints
+
+data/intermediate/movies.csv
+data/intermediate/users.csv
+data/intermediate/ratings.csv
+data/intermediate/user_movie_ratings.mtx
