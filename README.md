@@ -21,8 +21,8 @@ This method involves embedding movies in a vector space by using a stochastic es
 
 ## Miscellaneous
 
-Movie Sentiment : Analysing a movie review's text to determine whether it is positive or negative. ![Find the repository here](https://github.com/saurabhmathur96/movie-sentiment).
+- Movie Sentiment : Analysing a movie review's text to determine whether it is positive or negative. ![Find the repository here](https://github.com/saurabhmathur96/movie-sentiment).
 
-Anime Finder : A cosine similarity based anime recommendation engine along with a web-based interface. ![Find the repository here](https://github.com/saurabhmathur96/Anime-Finder).
+- Anime Finder : A cosine similarity based anime recommendation engine along with a web-based interface. ![Find the repository here](https://github.com/saurabhmathur96/Anime-Finder).
 
-Book Recommendations : An experiment using the Truncated SVD method to recommend books. ![Find the notebook  here](http://nbviewer.jupyter.org/github/saurabhmathur96/jupyter-notebooks/blob/master/Book%20Recommendation.ipynb).
+- Book Recommendations : An experiment using the Truncated SVD method to recommend books. ![Find the notebook  here](http://nbviewer.jupyter.org/github/saurabhmathur96/jupyter-notebooks/blob/master/Book%20Recommendation.ipynb).
