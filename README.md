@@ -22,7 +22,7 @@ The Restricted Boltzmann Machine (RBM) is a special type of artificial neural ne
 This method involves embedding movies in a vector space by using a stochastic estimation of Matrix Factorisation. The movie embedding can be considered a representation of the movie features and we can make recommendations using a similarity metric.
 
 
-### Probabilistic Matrix Factorization [Repository] (https://github.com/saurabhmathur96/variational-collaborative-filtering)
+### Probabilistic Matrix Factorization [Repository](https://github.com/saurabhmathur96/variational-collaborative-filtering)
 
 A Bayesian approach to factorizing the Ratings matrix using Variational Inference. As a result, each rating prediction is a Gaussian with its variance representing uncertainty.
 
