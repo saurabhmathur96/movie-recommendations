@@ -3,6 +3,8 @@ A recommender system is one that seeks to predict the "rating" or "preference" a
 
 ## Methods
 
+
+
 ### Cosine Similarity [Notebook](./notebooks/Recommending%20movies%20using%20Cosine%20similarity.ipynb)
 
 Since the one-hot representation of movies is too sparse, we can create a dense representation using Principal Component Analysis. On this dense representation, we can recommend similar movies using cosine similarity metric.
@@ -18,6 +20,12 @@ The Restricted Boltzmann Machine (RBM) is a special type of artificial neural ne
 ### SVD Matrix Factorisation [Notebook](./notebooks/Recommending%20movies%20using%20SVD%20Matrix%20Factorisation.ipynb)
 
 This method involves embedding movies in a vector space by using a stochastic estimation of Matrix Factorisation. The movie embedding can be considered a representation of the movie features and we can make recommendations using a similarity metric.
+
+
+### Probabilistic Matrix Factorization [Repository] (https://github.com/saurabhmathur96/variational-collaborative-filtering)
+
+A Bayesian approach to factorizing the Ratings matrix using Variational Inference. As a result, each rating prediction is a Gaussian with its variance representing uncertainty.
+
 
 ## Miscellaneous
 
